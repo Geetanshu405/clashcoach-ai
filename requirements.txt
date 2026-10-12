@@ -1,0 +1,5 @@
+# Python dependencies. Top-level packages only.
+Django
+python-dotenv
+requests
+openai
